@@ -1,4 +1,5 @@
-﻿using System;
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,5 +20,9 @@ namespace GitTest
         {
             Console.WriteLine("Функция Влада");
         }
+        static void AlexMethod()
+        {
+            Console.WriteLine("Метод Алексея");
+           }
+        }
     }
-}
