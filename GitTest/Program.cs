@@ -10,6 +10,14 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
+
+            VladsFunction();
+            Console.ReadLine();
+        }
+
+        static void VladsFunction()
+        {
+            Console.WriteLine("Функция Влада");
         }
     }
 }
